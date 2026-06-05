@@ -1,21 +1,154 @@
-# Hi there 👋
-👋 About Me<br>Hi, I’m Arrij Fawwad a Computer Science student passionate about building intelligent, interactive, and impactful software. I enjoy working on projects that combine AI, real-time systems, and creative problem-solving.<br><br>🔭 I’m working on<br>AI-powered voice assistants integrating Speech-to-Text, bots, and Text-to-Speech.<br>RAG-based chatbots leveraging LLMs and vector databases.<br>Experimental agentic AI systems for automation and software engineering tasks.<br><br>🤝 I’m looking to collaborate on<br>Open-source AI/ML projects.<br>Innovative chatbot, automation, or RAG system ideas.<br>Educational tech tools or productivity apps.<br><br>🌱 I’m currently learning<br>Multi-agent AI frameworks (LangChain, AutoGen).<br>Advanced prompt engineering and LLM fine-tuning.<br>Optimizing AI workloads on NVIDIA GPUs.<br><br>💬 Ask me about<br>Python, Flask, gRPC, and microservice architectures.<br>AI voice assistants and real-time transcription.<br>Docker, deployment, and project structuring.<br>
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ARRIJ FAWWAD  ·  AI Systems Engineer & CS Student        ║
+║     Islamabad, PK  ·  arrijfawad.46@gmail.com               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arrij-fawwad-48752a200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arrijfawad.46@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arrij-fawwad-48752a200)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arrijfawad.46@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrij46)
+![Visitors](https://visitcount.itsvg.in/api?id=arrij46&icon=0&color=0)
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=plastic&logo=arangodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arrij46&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arrij46&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrij46&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arrij46&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arrij46&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+I'm a **Computer Science student** who builds at the intersection of AI systems, real-time infrastructure, and developer tooling. My focus is on systems that are not just intelligent — but *fast, composable, and production-ready*.
+
+I care deeply about clean architecture, meaningful abstractions, and making AI actually useful in the real world — not just as demos, but as robust, deployable systems.
+
+```python
+class ArijFawwad:
+    location      = "Islamabad, Pakistan 🇵🇰"
+    role          = "CS Student · AI Systems Builder"
+    
+    current_focus = [
+        "Multi-agent AI frameworks (LangChain, AutoGen)",
+        "RAG systems with vector databases & LLMs",
+        "AI voice assistants: STT → LLM → TTS pipelines",
+        "NVIDIA GPU workload optimization & CUDA",
+    ]
+    
+    interests     = [
+        "Agentic AI & autonomous software engineering",
+        "Real-time transcription & voice interfaces",
+        "Microservice architectures with gRPC/Flask",
+        "Open-source AI/ML tooling",
+    ]
+    
+    open_to       = "Collaborations · Internships · Research"
+```
+
+---
+
+## `$ ls ./expertise`
+
+<div align="center">
+
+| Domain | Technologies |
+|---|---|
+| **AI / ML** | LangChain · AutoGen · PyTorch · TensorFlow · Keras · scikit-learn · Hugging Face |
+| **LLM & RAG** | Prompt Engineering · Vector DBs · LLM Fine-tuning · Retrieval Pipelines |
+| **Voice Systems** | Speech-to-Text · TTS · Real-time Audio Pipelines |
+| **Backend** | Python · FastAPI · Flask · Node.js · NestJS · gRPC · REST |
+| **Frontend** | React · Next.js · React Native · Flutter · HTML/CSS/JS |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Supabase · Firebase · ArangoDB · DynamoDB |
+| **Cloud & DevOps** | AWS · Azure · Docker · GitHub Actions · GitLab CI |
+| **Languages** | Python · C++ · C# · Java · JavaScript · Dart |
+
+</div>
+
+---
+
+## `$ cat ./currently_building.log`
+
+```
+[ACTIVE]  🎙️  AI Voice Assistant
+          → End-to-end pipeline: Speech-to-Text → LLM → Text-to-Speech
+          → Low-latency, real-time conversational interface
+          → Targeting < 500ms round-trip on consumer hardware
+
+[ACTIVE]  🤖  RAG-Based Chatbot System
+          → LLM + vector database for domain-specific retrieval
+          → Structured document ingestion & semantic search
+          → REST API deployment with FastAPI
+
+[ACTIVE]  🧠  Agentic AI Framework Experiments
+          → Multi-agent task decomposition with AutoGen & LangChain
+          → Autonomous code generation & software engineering tasks
+          → Tool-use, memory, and planning capabilities
+
+[LEARNING] ⚡  NVIDIA GPU Optimization
+          → CUDA workloads & AI inference acceleration
+          → Profiling AI pipelines for edge deployment
+```
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arrij46&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=arrij46&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrij46&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## `$ top --contributors`
+
+<div align="center">
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=arrij46&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## `$ cat ./ask_me_about.txt`
+
+```
+> Python, Flask, FastAPI, gRPC — backend architecture & APIs
+> AI Voice Assistants — real-time STT/TTS pipeline design
+> RAG Systems — LLM + vector store integration patterns
+> Docker & Deployment — containerization and CI/CD
+> Multi-agent AI — LangChain, AutoGen, agentic workflows
+> Data Science — NumPy, Pandas, Matplotlib, MLflow
+```
+
+---
+
+## `$ ping ./collaboration`
+
+I'm actively looking to collaborate on:
+
+- 🧩 **Open-source AI/ML projects** — especially LLM tooling, agents, or RAG
+- 💬 **Chatbot & automation systems** — from architecture to deployment
+- 🎓 **Educational tech** — tools that make learning more intelligent
+- ⚙️ **Productivity engineering** — AI-augmented developer workflows
+
+> If you're building something interesting in the AI/ML space, let's talk.  
+> **[arrijfawad.46@gmail.com](mailto:arrijfawad.46@gmail.com)** · **[LinkedIn](https://linkedin.com/in/arrij-fawwad-48752a200)**
+
+---
+
+<div align="center">
+
+```
+"Build systems that think. Write code that lasts."
+```
+
+*Last updated · 2026*
+
+</div>
