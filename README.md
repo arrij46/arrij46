@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## 👋 About Me
-I'm Arrij Fawwad, an AI/ML and Software Engineer. I build production-grade, AI-integrated systems spanning Machine Learning, NLP, and LLMs — from PostgreSQL extensions with embedded ML inference to RAG pipelines and multi-agent LLM systems. Comfortable across the full stack with Python, SQL, FastAPI, React/TypeScript, and Node.js, with working exposure to Docker, Kubernetes, CI/CD, and AWS.
+I'm Arrij Fawwad, an AI/ML and Software Engineer. I build production-grade, AI-integrated systems spanning Machine Learning, NLP, and LLMs from PostgreSQL extensions with embedded ML inference to RAG pipelines and multi-agent LLM systems. Comfortable across the full stack with Python, SQL, FastAPI, React/TypeScript, and Node.js, with working exposure to Docker, Kubernetes, CI/CD, and AWS.
 
 🔭 **Currently working on**
-- An AI-powered PostgreSQL extension (PL/Python) with embedded ML inference, vector search, and embedding-based retrieval — as a Database Engine Developer Intern at Inzent, South Korea (remote)
+- An AI-powered PostgreSQL extension (PL/Python) with embedded ML inference, vector search, and embedding-based retrieval as a Database Engine Developer Intern at Inzent, South Korea (remote)
 - Refactoring a PostgreSQL extension + FastAPI backend + React/Vite frontend into independently maintainable, scalable components
 
 🤝 **I'm looking to collaborate on**
@@ -26,8 +26,7 @@ I'm Arrij Fawwad, an AI/ML and Software Engineer. I build production-grade, AI-i
 📍 Dubai, UAE
 
 ## 🎓 Education
-**BS Computer Science** — FAST National University of Computer and Emerging Sciences, Islamabad (2022–2026), CGPA 3.6/4.0
-Dean's & Rector's List of Honors (2023–2026)
+**BS Computer Science** — FAST National University of Computer and Emerging Sciences, Islamabad, Pakistan (2022–2026)
 
 ## 💼 Experience
 - **Database Engine Developer Intern**, Inzent (South Korea, Remote) — Apr 2026–Present
@@ -58,9 +57,10 @@ Generative AI Fundamentals (Google Cloud Skills Boost) · Building Your Own Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=plastic&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arrij46&theme=aura&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
-![](https://streak-stats.demolab.com/?user=arrij46&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrij46&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
+<!-- Generated nightly by .github/workflows/readme-stats.yml and streak-stats.yml — no live third-party fetch, so these won't break. -->
+![](./profile/stats.svg)<br/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a><br/>
+![](./profile/top-langs.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arrij46&limit=5&theme=dark&combine_all_yearly_contributions=true)
