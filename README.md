@@ -1,37 +1,63 @@
 # Hi there 👋
 
 ## 👋 About Me
-Hi, I'm Arrij Fawwad, a Computer Science graduate passionate about building intelligent, interactive, and impactful software. I enjoy working on projects that combine AI, real-time systems, and creative problem-solving.
+I'm Arrij Fawwad, an AI/ML and Software Engineer. I build production-grade, AI-integrated systems spanning Machine Learning, NLP, and LLMs — from PostgreSQL extensions with embedded ML inference to RAG pipelines and multi-agent LLM systems. Comfortable across the full stack with Python, SQL, FastAPI, React/TypeScript, and Node.js, with working exposure to Docker, Kubernetes, CI/CD, and AWS.
 
-🔭 **I'm working on**
-- AI-powered voice assistants integrating Speech-to-Text, bots, and Text-to-Speech
-- RAG-based chatbots leveraging LLMs and vector databases
-- Experimental agentic AI systems for automation and software engineering tasks
+🔭 **Currently working on**
+- An AI-powered PostgreSQL extension (PL/Python) with embedded ML inference, vector search, and embedding-based retrieval — as a Database Engine Developer Intern at Inzent, South Korea (remote)
+- Refactoring a PostgreSQL extension + FastAPI backend + React/Vite frontend into independently maintainable, scalable components
 
 🤝 **I'm looking to collaborate on**
-- Open-source AI/ML projects
-- Innovative chatbot, automation, or RAG system ideas
-- Educational tech tools or productivity apps
+- Open-source AI/ML and database-adjacent projects
+- RAG pipelines, vector search, and multi-agent LLM systems
+- Applied ML tooling and developer productivity apps
 
-🌱 **I'm currently learning**
-- Multi-agent AI frameworks (LangChain, AutoGen)
-- Advanced prompt engineering and LLM fine-tuning
-- Optimizing AI workloads on NVIDIA GPUs
+🌱 **Currently learning**
+- Kubernetes and cloud-native deployment patterns
+- Advanced prompt engineering and multi-agent orchestration (LangChain)
+- GPU-accelerated ML workloads (CUDA, OpenACC, OpenCL)
 
 💬 **Ask me about**
-- Python, Flask, gRPC, and microservice architectures
-- AI voice assistants and real-time transcription
-- Docker, deployment, and project structuring
+- PostgreSQL extensions, PL/Python, and embedded ML inference
+- RAG pipelines, vector databases, and LLM-based multi-agent systems
+- FastAPI, gRPC, and REST API design
+- CUDA / GPU optimization for ML workloads
 
 📍 Dubai, UAE
 
-## 🌐 Socials:
+## 🎓 Education
+**BS Computer Science** — FAST National University of Computer and Emerging Sciences, Islamabad (2022–2026), CGPA 3.6/4.0
+Dean's & Rector's List of Honors (2023–2026)
+
+## 💼 Experience
+- **Database Engine Developer Intern**, Inzent (South Korea, Remote) — Apr 2026–Present
+- **AI Software Development Intern**, AKSA Solutions Development Services — Jul–Aug 2025
+- **AI Intern**, AI & ML Lab, FAST-NUCES — Jun–Aug 2024
+- **Teaching Assistant & Lab Demonstrator**, FAST-NUCES — Jan 2023–Dec 2025
+
+## 🚀 Featured Projects
+- **[MARS – Multi-Agent Requirement Engineering System](#)** — FYP: multi-agent LLM pipeline (FastAPI, MongoDB, RabbitMQ, LangChain + Groq) automating requirement elicitation; neural net achieving 88% accuracy on conflict/duplicate detection
+- **RAG-Powered CUDA Knowledge Chatbot** — RAG chatbot indexing 500+ pages of CUDA docs with vector embeddings for technical retrieval
+- **Neural Network GPU Optimization** — Ported NN inference from CPU to GPU with CUDA/OpenACC, achieving up to 13.4× speedup
+- **Votix – E-Voting Management System** — Secure real-time e-voting platform (Java, MySQL, SSE, VPN-encrypted transmission)
+
+## 🛠️ Skills
+**AI/ML:** Machine Learning · Deep Learning · NLP · LLMs · RAG · Transformers · Vector Embeddings · TensorFlow · LangChain
+**Backend:** Python · FastAPI · Flask · Node.js · REST · gRPC · PostgreSQL · MongoDB · RabbitMQ
+**Frontend:** React.js · TypeScript · JavaScript · HTML/CSS · Bootstrap
+**Cloud/DevOps:** Docker · Kubernetes · Git/GitHub · AWS · CI/CD · N8N
+**Parallel Computing:** CUDA · OpenMP · OpenACC · OpenCL
+
+## 📜 Certifications
+Generative AI Fundamentals (Google Cloud Skills Boost) · Building Your Own Database Agent (DeepLearning.AI) · Cloud Foundations (AWS Academy)
+
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arrij-fawwad-48752a200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arrijfawad.46@gmail.com)
 
-## 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=plastic&logo=arangodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=plastic&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=arrij46&theme=aura&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
 ![](https://streak-stats.demolab.com/?user=arrij46&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrij46&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
